@@ -1,4 +1,4 @@
-name = "v20250907"
+name = "mintro"
 main = "_worker.js"
-compatibility_date = "2025-09-07"
+compatibility_date = "2025-03-07"
 keep_vars = true
